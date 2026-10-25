@@ -1,0 +1,44 @@
+# Local data and inputs
+/data/
+/input/
+/.local/
+*.pdf
+*.rar
+*.zip
+*.7z
+*.tar
+*.gz
+*.sqlite*
+*.db
+*.db-*
+*.log
+*.log.*
+*.part
+*.tmp
+*.bak
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+build/
+dist/
+*.egg-info/
+
+# Credentials and local tools
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
